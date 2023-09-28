@@ -1,0 +1,25 @@
+table{
+    width: 80%;
+    margin-top: 20px;
+    border: 1px solid #e8e8e8;
+    background-color: white;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td{
+    border: 1px solid #e9e9e9;
+    padding: 10px;
+    text-align: left;
+
+}
+
+.table-row:hover{
+    background-color: #ccc;
+  }
+
+  .row-delete {
+    color: red;
+    margin-left: 10px;
+  }

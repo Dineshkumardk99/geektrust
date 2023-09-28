@@ -1,0 +1,16 @@
+.delete-button{
+    background-color: red;
+    padding: 8px 18px;
+    border: none;
+    border-radius: 18px;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    left: 160px;
+    bottom: 110px; 
+
+}
+
+.delete-button:disabled {
+    opacity: 0.5;
+}
